@@ -37,7 +37,7 @@ L<Graphics::ColorNames>
 use strict;
 use warnings;
 
-our $VERSION = 'v3.3.0';
+our $VERSION = 'v3.3.1';
 
 sub NamesRgbTable() {
     use integer;
