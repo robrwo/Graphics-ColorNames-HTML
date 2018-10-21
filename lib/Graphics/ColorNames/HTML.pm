@@ -1,5 +1,7 @@
 package Graphics::ColorNames::HTML;
 
+use v5.6;
+
 # ABSTRACT: HTML color names and equivalent RGB values
 
 # RECOMMEND PREREQ: Graphics::ColorNames
