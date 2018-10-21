@@ -18,8 +18,8 @@ use v5.6;
 This module defines color names and their associated RGB values from the
 HTML 4.0 Specification.
 
-This module is deprecated, and will be split into a separate
-distribution.  You should use L<Graphics::ColorNames::WWW> instead.
+This module is deprecated.You should use L<Graphics::ColorNames::WWW>
+instead.
 
 =head1 KNOWN ISSUES
 

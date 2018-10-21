@@ -20,8 +20,8 @@ $RgbBlack  = $NameTable->{black};
 This module defines color names and their associated RGB values from the
 HTML 4.0 Specification.
 
-This module is deprecated, and will be split into a separate
-distribution.  You should use [Graphics::ColorNames::WWW](https://metacpan.org/pod/Graphics::ColorNames::WWW) instead.
+This module is deprecated.You should use [Graphics::ColorNames::WWW](https://metacpan.org/pod/Graphics::ColorNames::WWW)
+instead.
 
 # KNOWN ISSUES
 
