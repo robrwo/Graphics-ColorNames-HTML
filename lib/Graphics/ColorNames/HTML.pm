@@ -2,6 +2,8 @@ package Graphics::ColorNames::HTML;
 
 # ABSTRACT: HTML color names and equivalent RGB values
 
+# RECOMMEND PREREQ: Graphics::ColorNames
+
 =head1 SYNOPSIS
 
   require Graphics::ColorNames::HTML;

@@ -1,3 +1,4 @@
+recommends "Graphics::ColorNames" => "0";
 
 on 'test' => sub {
   requires "File::Spec" => "0";
