@@ -1,6 +1,6 @@
 # NAME
 
-Graphics::ColorNames::HTML - HTML color names and equivalent RGB values
+Graphics::ColorNames::HTML - HTML 4.0 color names and RGB values (DEPRECATED)
 
 # VERSION
 
@@ -17,11 +17,11 @@ $RgbBlack  = $NameTable->{black};
 
 # DESCRIPTION
 
+This module is deprecated.  You should use [Graphics::ColorNames::WWW](https://metacpan.org/pod/Graphics::ColorNames::WWW)
+instead.
+
 This module defines color names and their associated RGB values from the
 HTML 4.0 Specification.
-
-This module is deprecated.You should use [Graphics::ColorNames::WWW](https://metacpan.org/pod/Graphics::ColorNames::WWW)
-instead.
 
 # KNOWN ISSUES
 
