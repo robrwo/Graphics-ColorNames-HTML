@@ -2,7 +2,7 @@ package Graphics::ColorNames::HTML;
 
 use v5.6;
 
-# ABSTRACT: HTML color names and equivalent RGB values
+# ABSTRACT: HTML 4.0 color names and RGB values (DEPRECATED)
 
 # RECOMMEND PREREQ: Graphics::ColorNames
 
@@ -15,11 +15,11 @@ use v5.6;
 
 =head1 DESCRIPTION
 
+This module is deprecated.  You should use L<Graphics::ColorNames::WWW>
+instead.
+
 This module defines color names and their associated RGB values from the
 HTML 4.0 Specification.
-
-This module is deprecated.You should use L<Graphics::ColorNames::WWW>
-instead.
 
 =head1 KNOWN ISSUES
 
