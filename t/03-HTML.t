@@ -1,7 +1,5 @@
 #!/usr/bin/perl
 
-#!/usr/bin/perl
-
 use Test::Most;
 
 use Types::Common::Numeric qw/ IntRange /;
