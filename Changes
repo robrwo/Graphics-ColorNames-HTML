@@ -10,6 +10,9 @@ Revision history for Graphics-ColorNames-HTML:
   [Tests]
   - Removed duplicate shebang line.
 
+  [Toolchain]
+  - Tweaks to dist.ini for simplifying build.
+
 v3.3.1    2018-10-21 17:08:19+01:00 Europe/London
   [Documentation]
   - Updated note about deprecation.
